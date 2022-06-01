@@ -68,7 +68,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://imgs.search.brave.com/ZRi7uAIp9D7pUEfQBs_AXKQwLBAt1dpTtzOyLrAfSXA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/Yi9iMi9TdWthbl9S/VE1fMV9BcHJpbC5w/bmcvMjAwcHgtU3Vr/YW5fUlRNXzFfQXBy/aWwucG5n",111 Sukan RTM
+#EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://rtmstatic.sofiadigital.tv/image/tvSUKANlogo_NEW.jpg",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
@@ -605,7 +605,7 @@ http://axcestv.vip:8080/freeview2/axcestv2/602
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://imgs.search.brave.com/MyEDte5bOVEtFBOYALH4OuWx9tjXnVSqEBGG7yTMyEs/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3MS5w/cndlYi5jb20vcHJm/aWxlcy8yMDE3LzA4/LzE3LzE0NjExNDM1/L1NUQURJVU0lMjBM/T0dPX1NUQUNLRUQl/MjBORVdfMDAwMDAu/cG5n" group-title="SPORT",UFC Stadium TV(US)
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://s23455.pcdn.co/wp-content/themes/stadium/static/images/stadium-logo-600.png" group-title="SPORT",UFC Stadium TV(US)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1925,7 +1925,7 @@ http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 
-#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://en.wikipedia.org/wiki/Tamil_Vision_International#/media/File:TVI_HD_logo.png",[MIX CHANNEL] Tamil Vision TV 
+#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png",[MIX CHANNEL] Tamil Vision TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
