@@ -605,7 +605,7 @@ http://axcestv.vip:8080/freeview2/axcestv2/602
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SPORT",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Stadium_%28sports_network%29_logo.svg" group-title="SPORT",UFC
+#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="https://www.seekpng.com/png/detail/282-2820818_tv-png.png" group-title="SPORT",UFC
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
