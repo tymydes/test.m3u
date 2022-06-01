@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/VIVIZ_Logo.png" group-title="❤️ VIVIZ TV  ❤️",VIVIZ TV - Stream VIVIZ on Youtube
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/VIVIZ_Logo.png" group-title="!❤️ VIVIZ TV ❤️!",VIVIZ TV - Stream VIVIZ on Youtube
 https://od.lk/s/ODJfOTI1ODkyOTBf/Stream%20VIVIZ%20on%20Youtube
 
 
