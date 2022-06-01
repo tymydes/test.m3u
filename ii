@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/VIVIZ_Logo.png" group-title="❤️ VIVIZ TV ❤️",VIVIZ TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/VIVIZ_Logo.png" group-title="❤️ VIVIZ TV  ❤️",VIVIZ TV - Stream VIVIZ on Youtube
 https://od.lk/s/ODJfOTI1ODkyOTBf/Stream%20VIVIZ%20on%20Youtube
 
 
@@ -912,8 +912,7 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="NEWS",INEWS
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
-https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-https://cdn-livetv-studio.metube.id/inewstv.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="NEWS",Berita Satu 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -2173,34 +2172,38 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1, group-title="THAILAND",DLTV 15
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
-#EXTINF:-1, group-title="THAILAND",ThaiPBS,tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png"
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen 
+#https://link.zozotv.xyz:443/shukrisinar/shukrisinar/57
+#http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png",ThaiPBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1, group-title="THAILAND",TPTV,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TPTV_logo_2014.png",TPTV
 http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",TNN16,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/TNN24_Logo.png",TNN16
 http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",NationTV,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/1200px-Nation_TV_Logo.svg.png",NationTV
 http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",workpoint,tvg-logo="https://image.bangkokbiznews.com/image/kt/media/image/news/2019/11/12/854341/750x422_854341_1573566062.jpg"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://image.bangkokbiznews.com/image/kt/media/image/news/2019/11/12/854341/750x422_854341_1573566062.jpg",workpoint
 http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",True4u,tvg-logo="https://www.true4u.com/images/true4u.jpg"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://www.true4u.com/images/true4u.jpg",True4u
 http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",GMM25,tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",ONEHD,tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/th/e/ef/Watermark-ONE.png",ONEHD
 http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",ThairathTV,tvg-logo="https://9oog.com/wp-content/uploads/2020/05/Thairath_TV_Logo.svg_.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://9oog.com/wp-content/uploads/2020/05/Thairath_TV_Logo.svg_.png",ThairathTV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
-#EXTINF:-1, group-title="THAILAND",CH3,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png"
+#EXTINF:-1, group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
 
@@ -2234,5 +2237,4 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ###################################################################################################################################################################
 ###################################################################################################################################################################
 ###################################################################################################################################################################
-
 
