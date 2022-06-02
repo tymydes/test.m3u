@@ -841,10 +841,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #######################################################################   KIDS   ####################################################################################################
 #####################################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="CHN" tvg-country="MY" tvg-language="Malay" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png" group-title="KIDS" tvg-shift="+8",Dreamwork HD
-https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528655.m3u8
 
-#EXTINF:-1 tvg-id="Dreamwork HD" tvg-name="Dreamwork HD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="Dreamwork HD" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png" group-title="KIDS",Dreamwork HD
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",Cartoon Network
