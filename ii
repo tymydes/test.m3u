@@ -844,7 +844,11 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #######################################################################   KIDS   ####################################################################################################
 #####################################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="CHN" tvg-country="MY" tvg-language="Malay" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png" group-title="mifnTv" tvg-shift="+8",Dreamwork HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528655.m3u8
 
+#EXTINF:-1 tvg-id="Dreamwork HD" tvg-name="Dreamwork HD" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",Cartoon Network
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",Cartoon Network
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
@@ -998,8 +1002,92 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #####################################################################################################################################################################################
 
 
+#EXTM3U"
 
+#EXTINF:0 tvg-id="wavve|M01" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREA",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
+#EXTINF:0 tvg-id="wavve|K01" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREA",KBS1
+http://itskoi.dothome.co.kr/kbs.php?id=11
+#http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2
+http://itskoi.dothome.co.kr/kbs.php?id=12
+
+#EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2 ALT
+http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+
+#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT
+http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT 2
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C01582" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="KOREA",JTBC
+http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00551" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="KOREA",TVN
+http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00579" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00579" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet 일본VPN필요
+https://live-hls-c2.smart.mnetjp.com/mnet/s6/chunklist.m3u8
+
+#EXTINF:0 tvg-id="wavve|E01" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/revision/latest/scale-to-width-down/340?cb=20180626152424" group-title="KOREA",EBS1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|E07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png" group-title="KOREA",EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0 tvg-id="172" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="KOREA",EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:0 tvg-id="173" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="KOREA",EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:0 tvg-id="768" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png/revision/latest/scale-to-width-down/340?cb=20180629204550" group-title="KOREA",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0 tvg-id="761" tvg-logo="https://ww.namu.la/s/1323374c06d60b77f62ae95d70fe530878a21146758f9c6cd65aaddb42ddc95a8914c9e47264e8619fbf3a068478c017dfbd756bf58207fabde0ce74e9849e74442c508bf44a36a31bcd0147fa93467a7a5aab07e80f896de3431d49d065fcc9" group-title="KOREA",EBSKids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C06941" tvg-logo="https://t1.daumcdn.net/cfile/blog/9987A74D5C9E51F60C" group-title="KOREA",Tooniverse
+http://51.81.66.195:1935/krtv/tooniverse_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="699" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus 
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:0 tvg-id="699" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus ALT
+http://51.81.66.195:1935/krtv/aniplus_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C01583" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/6/6a/Channel_A_logo.jpg/revision/latest/scale-to-width-down/340?cb=20190917155031&path-prefix=ko" group-title="KOREA",Channel A
+http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="wavve|C2401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg" group-title="KOREA",MBN
+http://51.81.66.195:1935/krtv/mbn_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="151" tvg-logo="" group-title="KOREA",TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+
+#EXTINF:0 tvg-id="tving|C07381" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png" group-title="KOREA",OCN
+http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00593" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png" group-title="KOREA",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00593" tvg-logo="https://yt3.ggpht.com/a/AGF-l78NDb3i2YeHFD0BIaB-SWHHZvMvLAdBcrLf_w=s900-c-k-c0xffffffff-no-rj-mo" group-title="KOREA",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C15347" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="KOREA",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:0 tvg-id="tving|C00593" tvg-logo="" group-title="KOREA",YTN Korean
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76ac661111eadf6ffde0dcdbd16fcb10:24b391c868de298804403a024e6ce7de
