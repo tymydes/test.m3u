@@ -846,10 +846,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-country="MY" tvg-language="Malay" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS" tvg-shift="+8",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",Cartoon Network
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
