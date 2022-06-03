@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U x-url-tvg="https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/VIVIZ_Logo.png" group-title="!❤️ VIVIZ TV ❤️!",VIVIZ TV - Stream VIVIZ on Youtube
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",146 TV Okey
+#EXTINF:-1 group-title="MYFREEVIEW" tvg-id="146" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",146 TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
@@ -996,80 +996,80 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 ###################################################################   KOREA   #######################################################################################################
 #####################################################################################################################################################################################
 
-#EXTINF:0 tvg-id="wavve|M01" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREA",MBC
+#EXTINF:0 tvg-id="MBCTV.kr" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREA",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|K01" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREA",KBS1
+#EXTINF:0 tvg-id="KBS1TV.kr" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREA",KBS1
 http://itskoi.dothome.co.kr/kbs.php?id=11
 #http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2
+#EXTINF:0 tvg-id="KBS2TV.kr" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2
 http://itskoi.dothome.co.kr/kbs.php?id=12
 
-#EXTINF:0 tvg-id="wavve|K02" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2 ALT
+#EXTINF:0 tvg-id="KBS2TV.kr" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS2 ALT
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS
+#EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS
 http://itskoi.dothome.co.kr/sbs.php?id=S01
 
-#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT
+#EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT 2
+#EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS ALT 2
 http://1.245.74.5:1935/live/tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C01582" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="KOREA",JTBC
+#EXTINF:0 tvg-id="JTBC.kr" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="KOREA",JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C00551" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="KOREA",TVN
+#EXTINF:0 tvg-id="tvN.kr" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="KOREA",TVN
 http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C00579" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet
+#EXTINF:0 tvg-id="Mnet.kr" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C00579" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet 일본VPN필요
+#EXTINF:0 tvg-id="Mnet.jp" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",mnet 일본VPN필요
 https://live-hls-c2.smart.mnetjp.com/mnet/s6/chunklist.m3u8
 
-#EXTINF:0 tvg-id="wavve|E01" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/revision/latest/scale-to-width-down/340?cb=20180626152424" group-title="KOREA",EBS1
+#EXTINF:0 tvg-id="EBS1TV.kr" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/revision/latest/scale-to-width-down/340?cb=20180626152424" group-title="KOREA",EBS1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|E07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png" group-title="KOREA",EBS2
+#EXTINF:0 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png" group-title="KOREA",EBS2
 http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 
-#EXTINF:0 tvg-id="172" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="KOREA",EBS+ 1
+#EXTINF:0 tvg-id="EBSPlus1.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="KOREA",EBS+ 1
 http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:0 tvg-id="173" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="KOREA",EBS+ 2
+#EXTINF:0 tvg-id="EBSPlus2.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="KOREA",EBS+ 2
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 
-#EXTINF:0 tvg-id="768" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png/revision/latest/scale-to-width-down/340?cb=20180629204550" group-title="KOREA",EBSe
+#EXTINF:0 tvg-id="EBSEnglish.kr" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png/revision/latest/scale-to-width-down/340?cb=20180629204550" group-title="KOREA",EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:0 tvg-id="761" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KOREA",EBSKids
+#EXTINF:0 tvg-id="EBSKids.kr" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KOREA",EBSKids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C06941" tvg-logo="https://t1.daumcdn.net/cfile/blog/9987A74D5C9E51F60C" group-title="KOREA",Tooniverse
+#EXTINF:0 tvg-id="Tooniverse.kr" tvg-logo="https://t1.daumcdn.net/cfile/blog/9987A74D5C9E51F60C" group-title="KOREA",Tooniverse
 http://51.81.66.195:1935/krtv/tooniverse_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="699" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus 
+#EXTINF:0 tvg-id="Aniplus.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus 
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:0 tvg-id="699" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus ALT
+#EXTINF:0 tvg-id="Aniplus.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/e/e4/%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%A1%9C%EA%B3%A0.gif" group-title="KOREA",Aniplus ALT
 http://51.81.66.195:1935/krtv/aniplus_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C01583" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/6/6a/Channel_A_logo.jpg/revision/latest/scale-to-width-down/340?cb=20190917155031&path-prefix=ko" group-title="KOREA",Channel A
+#EXTINF:0 tvg-id="ChannelA.kr" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/6/6a/Channel_A_logo.jpg/revision/latest/scale-to-width-down/340?cb=20190917155031&path-prefix=ko" group-title="KOREA",Channel A
 http://51.81.66.195:1935/krtv/channela_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="wavve|C2401" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg" group-title="KOREA",MBN
+#EXTINF:0 tvg-id="MBN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg" group-title="KOREA",MBN
 http://51.81.66.195:1935/krtv/mbn_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="151" tvg-logo="" group-title="KOREA",TBS
+#EXTINF:0 tvg-id="TBS.kr" tvg-logo="" group-title="KOREA",TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
 
-#EXTINF:0 tvg-id="tving|C07381" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png" group-title="KOREA",OCN
+#EXTINF:0 tvg-id="OCN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1280px-OCN_Logo.svg.png" group-title="KOREA",OCN
 http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
 
-#EXTINF:0 tvg-id="tving|C00593" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png" group-title="KOREA",YTN
+#EXTINF:0 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 
 #EXTINF:0 tvg-id="tving|C00593" tvg-logo="https://yt3.ggpht.com/a/AGF-l78NDb3i2YeHFD0BIaB-SWHHZvMvLAdBcrLf_w=s900-c-k-c0xffffffff-no-rj-mo" group-title="KOREA",YTN DMB
@@ -2326,4 +2326,3 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ###################################################################################################################################################################
 ###################################################################################################################################################################
 ###################################################################################################################################################################
-
